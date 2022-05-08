@@ -11,6 +11,9 @@
   "keywords": [
     "heroku"
   ],
+  "engines": {
+    "node": "16.13.2"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
